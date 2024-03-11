@@ -1,0 +1,26 @@
+*{
+    margin:5px;
+}
+body {
+    background-color: #070538;
+    
+}
+header{
+    display: flex;
+    justify-content: row;
+    gap: 30rem;
+    align-items: center;
+    padding: 0px;
+    z-index: 100;
+    width: 100%;
+    margin-left: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: row;
+    gap: 1rem;
+    
+}
+p, h1{
+    color: white;
+}
